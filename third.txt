@@ -29,4 +29,4 @@
   --abbrev=<n>  abbreviate object names in diff-tree header and diff-raw.
   -R            swap input file pairs.
 
-hello mero nam sumit hooo
+hello mero nam sumit hooo..
