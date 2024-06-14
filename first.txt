@@ -1,0 +1,2 @@
+i am learning git
+i want this to commit the modified
